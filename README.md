@@ -27,9 +27,11 @@ This commands includes
 <BR>
 
 ## Output
-IPCONFIG:
+## IPCONFIG:
+
 ![Screenshot (98)](https://github.com/user-attachments/assets/dcda3df7-a259-41b9-ac59-1277209d4b58)
-PING:
+## PING:
+
 ![Screenshot (99)](https://github.com/user-attachments/assets/dd2924d1-ad49-45fb-b663-bb9dd5f12eae)
 
 ## Result
